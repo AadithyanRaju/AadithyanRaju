@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AadithyanRaju
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python, C, C++, QBasic, VB.net, etc.
+- 👀 I’m like in Coding
+- 🌱 I’m currently learning java,cpp.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aadithyan47@gmail.com
