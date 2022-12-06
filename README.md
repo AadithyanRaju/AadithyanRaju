@@ -32,7 +32,7 @@
 
 - :zap: In my free time, I solve problems on Codeforces and do PicoCTF.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/aadithyan-raju/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aadithyan-raju/)
 
 <hr>
 :hammer_and_wrench: Languages and Tools :
@@ -58,3 +58,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" **alt="ssh" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
 </div>
+<hr>
+:fire: My Stats :<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AadithyanRaju&theme=dark&border_radius=3.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AadithyanRaju&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
