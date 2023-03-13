@@ -58,11 +58,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" **alt="ssh" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
 </div>
-<hr>
-:fire: My Stats :<br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AadithyanRaju&theme=dark&border_radius=3.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AadithyanRaju&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
