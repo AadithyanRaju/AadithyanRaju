@@ -30,7 +30,7 @@
 
 - :seedling: Exploring Java and C++ right now.
 
-- :zap: In my free time, I solve problems on Codeforces and do PicoCTF.
+- :zap: In my free time, I solve problems on Codeforces and play CTF.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aadithyan-raju/)
 
