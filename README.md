@@ -26,9 +26,9 @@
   I am a Programmer <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="25"> from India <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="25"> 
 </p>
 
-- :telescope: I’m studing for higher education.
+- :telescope: I’m pursuing B.Tech in Computer Science.
 
-- :seedling: Exploring Java and C++ right now.
+- :seedling: Exploring Cyber Security.
 
 - :zap: In my free time, I solve problems on Codeforces and play CTF.
 
