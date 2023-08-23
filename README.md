@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=AzureDragon&&height=100)](https://github.com/Akshay090/svg-banners)
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=AzureDragon&&height=100)
 <h1 align="center">
   Hello There, I'm Aadithyan Raju
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
