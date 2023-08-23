@@ -47,6 +47,7 @@
 <img height="50" width="50" href="https://www.linkedin.com/in/aadithyan-raju/" src="https://user-images.githubusercontent.com/52845731/209470715-eaf3665c-c0c2-4ef2-b0de-3d22b3a24242.png" hspace="10"/>
   
 <img height="50" width="50" href="https://www.instagram.com/aadithyan.raju/" src="https://user-images.githubusercontent.com/52845731/209470659-9919fd0b-25f5-40ee-8a8e-5371fba33e7e.png" hspace="10"/>
+</div>
 
 ## Git Achivements
 ![](https://github-profile-trophy.vercel.app/?username=AadithyanRaju&no-bg=true&no-frame=true&theme=juicyfresh)
@@ -64,7 +65,6 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iaei42tyu5gz9beqt2tenapic&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
 - - -
 
-
 <table>
   <tr>
     <td>You are visitor</td>
@@ -72,4 +72,4 @@
   </tr>
 </table>
 
-![](https://img.shields.io/github/followers/AadithyanRaju?label=Github%20followers&style=for-the-badge)
+![](https://img.shields.io/github/followers/AadithyanRaju?label=Github%20followers&style=for-the-badge) 
