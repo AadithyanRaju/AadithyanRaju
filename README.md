@@ -18,7 +18,6 @@
 
 - 🔭 I’m pursuing B.Tech in Computer Science.
 - 🌱 Exploring Cyber Security.
-- ⚡️ In my free time, I solve problems on Codeforces and play CTF.
 
 ## I Work With
 
