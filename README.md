@@ -13,11 +13,10 @@
 </div>
 <H1>About Me:</H1>
 <p>
-  I am a Programmer <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="25"> from India <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" width="25"> 
+A Cyber-Security enthusiast with extensive hands-on experience in end-point Pen-Testing. With a proven track record of leadership skills as Secretary and SIG Lead for cyber-security at ACM Student Chapter, Amritapuri. Thriving on challenges and mentoring students in the field of cyber space, complemented by proven communication skills and team collaboration skills.
 </p>
 
-- 🔭 I’m pursuing B.Tech in Computer Science.
-- 🌱 Exploring Cyber Security.
+
 
 ## I Work With
 
